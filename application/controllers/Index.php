@@ -15,6 +15,8 @@ class IndexController extends Yaf_Controller_Abstract {
      * 对于如下的例子, 当访问http://yourhost/liaosp/index/index/index/name/laptop-vv3krjr9\liaosp 的时候, 你就会发现不同
      */
 	public function indexAction($name = "Stranger") {
+	    $data=User::select();
+        var_dump($data);exit;
 		//1. fetch query
 		$get = $this->getRequest()->getQuery("get", "default value");
 		//2. fetch model
