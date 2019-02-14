@@ -1,0 +1,6 @@
+{
+  "require": {
+    "topthink/think-orm": "^1.2",
+    "liaosp/guzzle-tool": "^2.0"
+  }
+}

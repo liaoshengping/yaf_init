@@ -1,0 +1,20 @@
+{
+    "name": "liaosp/guzzle-tool",
+    "description": "curl",
+    "type": "library",
+    "authors": [
+        {
+            "name": "liaosp",
+            "email": "runsp@gitee.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "guzzlehttp/guzzle": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "GuzzleTool\\": "src/"
+        }
+    }
+}
