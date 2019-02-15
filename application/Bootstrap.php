@@ -28,4 +28,8 @@ class Bootstrap extends Yaf_Bootstrap_Abstract {
 	public function _initView(Yaf_Dispatcher $dispatcher) {
 		//在这里注册自己的view控制器，例如smarty,firekylin
 	}
+    public function _initCommonFunctions(){
+        // 注册自定义加载地址
+        Yaf_Loader::import(Yaf_Application::app()->getConfig()->application->directory . '/common/function.php');
+    }
 }
