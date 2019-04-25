@@ -1,7 +1,10 @@
-![](https://img-blog.csdnimg.cn/20190215102400434.jpeg)
-![](http://www.baidu.com/img/bdlogo.gif)  
-博客专栏
+
+<img src="https://img-blog.csdnimg.cn/20190215102400434.jpeg" width = "100" height = "100" div align=center />
+
+## 博客专栏
 https://blog.csdn.net/qq_22823581/column/info/33813
+
+## 安装说明
 
 1.安装yaf 环境
 
