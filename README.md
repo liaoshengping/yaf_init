@@ -29,7 +29,7 @@ https://blog.csdn.net/qq_22823581/column/info/33813
 <img src="https://github.com/liaoshengping/yaf_init/raw/master/wx.jpg" width = "300" div align=center />
 
 
-
+<iframe src="//player.bilibili.com/player.html?aid=50240058&cid=87950591&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
