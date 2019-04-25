@@ -25,8 +25,8 @@ https://blog.csdn.net/qq_22823581/column/info/33813
 
 
 ## 有辣条吃吗
-![](wx.jpg)
 
+<img src="https://github.com/liaoshengping/yaf_init/raw/master/wx.jpg" width = "300" div align=center />
 
 
 
