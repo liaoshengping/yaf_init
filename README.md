@@ -29,7 +29,6 @@ https://blog.csdn.net/qq_22823581/column/info/33813
 <img src="https://github.com/liaoshengping/yaf_init/raw/master/wx.jpg" width = "300" div align=center />
 
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 
 
