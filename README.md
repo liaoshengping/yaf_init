@@ -8,7 +8,7 @@ https://blog.csdn.net/qq_22823581/column/info/33813
 
 1.安装yaf 环境
 
-2.安装yaconf环境
+2.安装yaconf环境(如果不了解yaconf，那不如多学一个东西)
 
 3.导入sql 文件
 
@@ -21,7 +21,6 @@ https://blog.csdn.net/qq_22823581/column/info/33813
 | 3.添加公用方法function.php | 
 | 4.整合 Think-ORM 数据库配置 | 
 | 5.配置转移到Yaconf 根目录中的yafinit.ini| 
-
 
 
 ## 有辣条吃吗
